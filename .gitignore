@@ -1,0 +1,6 @@
+Lib/site-packages
+.idea
+etc
+scripts
+share
+pyvenv.cfg
